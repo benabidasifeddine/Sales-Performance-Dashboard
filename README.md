@@ -94,19 +94,6 @@ Examples of insights generated:
 
 ---
 
-## 📂 Repository Structure
-Sales-Performance-Dashboard
-│
-├── Dashboard.pbix
-├── Dataset/
-│ └── sales_data.csv
-├── Screenshots/
-│ └── dashboard_overview.png
-└── README.md
-
-
----
-
 ## 👤 Author
 
 **Sif Eddine Benabida**
