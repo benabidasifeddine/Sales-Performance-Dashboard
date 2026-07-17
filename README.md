@@ -84,11 +84,8 @@ The project uses a **star schema approach**:
 
 ## 📷 Dashboard Preview
 
-(Add screenshots here)
+![Uploading Summary1.png…]()
 
-Example:
-
-![Dashboard Overview](Screenshots/dashboard_overview.png)
 
 ---
 
