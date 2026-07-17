@@ -82,13 +82,6 @@ The project uses a **star schema approach**:
 
 ---
 
-## 📷 Dashboard Preview
-
-![Uploading Summary1.png…]()
-
-
-
----
 
 ## 🔍 Key Insights
 
